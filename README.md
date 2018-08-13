@@ -1,4 +1,4 @@
 # BPI-BIT-MpyExample
 This repo features examples for BPI-BIT
 
-from https://github.com/mithru/MicroPython-Examples.
+from https://github.com/mithru/MicroPython-Examples, But not the same.
